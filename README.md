@@ -1,7 +1,7 @@
 # SummarizeME
 
 This project aims to convert YouTube video into detailed notes using the Gemini AI model. It provides a streamlined interface for users to input a YouTube video URL, select the video's language, and generate comprehensive notes based on the video content.
-Check out this link to run the project directly: https://summarizeme-iarchitgupta.streamlit.app/
+Check out this link to run the project directly: https://summarize-me.streamlit.app/
 ## Prerequisites
 
 Ensure you have Python installed on your system. You will also need to install the required libraries listed in `requirements.txt` using the following command:
